@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Header files
+gurobi_c.h
+gurobi_c++.h
