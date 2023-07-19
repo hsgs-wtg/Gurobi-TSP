@@ -32,5 +32,5 @@
 *.app
 
 # Header files
-gurobi_c.h
-gurobi_c++.h
+src/gurobi_c.h
+src/gurobi_c++.h
