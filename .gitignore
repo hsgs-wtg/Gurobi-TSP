@@ -30,7 +30,10 @@
 *.exe
 *.out
 *.app
+main
 
 # Header files
 src/gurobi_c.h
 src/gurobi_c++.h
+
+.vscode
