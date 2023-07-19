@@ -4,6 +4,10 @@
 
 int main(int argc, char** argv){
 	try {
+		// Create the main model
+		GRBEnv env = GRBEnv();
+		GRBModel model = GRBModel(env);
+
 
 	}
 	catch (GRBException e) {
